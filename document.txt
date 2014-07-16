@@ -1,5 +1,522 @@
-### Welcome to your project!
 
-- Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-- Talk to a person: support@penflip.com
+(PAS 1)
+
+#Democràcia i participació ciutadana
+
+Com funciona el sistema electoral? Quin és el paper de les forces polítiques i quin és el paper dels ciutadans? N'hi ha prou a votar un partit polític que ens representi durant una legislatura? Funciona el sistema democràtic que tenim? T’hi impliques d'alguna altra manera per aconseguir canvis? 
+
+Aquest curs et proposa un recorregut pels aspectes clau del sistema electoral, com una base per tal de reflexionar sobre el funcionament del sistema democràtic actual i sobre el paper i la responsabilitat que hi té el ciutadà. 
+
+(WEB: A LA DRETA, COM EN ELS ALTRES MINIOPS, S’HI HAURIEN INCLOURE AQUESTS DOS RECURSOS: 1. IMATGE QUE REPRESENTÉS L'ACCIÓ DE VOTAR: UNA URNA ON S'HI VEGI LA MÀ DEL CIUTADA? O ALGUNA IMATGE MÉS SIMBÒLICA? Exemple: “democracy” al google imatges // 2. A SOTA DE LA IMATGE, AQUEST PODCAST QUE CAL RETALLAR DEL MINUT 1:20 AL 2:51):
+
+PEU DE L’ÀUDIO: Democràcia participativa. [(Font: El Matí de Catalunya Ràdio, 20/02/2013](http://www.catradio.cat/audio/705985/Democracia-participativa)
+
+
+##Síl·labus del curs
+
+* El funcionament del sistema democràtic
+      * Una introducció a les diferents maneres que té el ciutadà d'incidir en la societat.
+* Els sistemes electorals
+      * Coneix i reflexiona sobre els pros i els contres dels principals sistemes i lleis electorals, prenent com a base tres models diferents.
+* Altres mecanismes de participació ciutadana
+      * Reflexiona sobre les formes de participació ciutadana previstes pel sistema, com per exemple les ILP. 
+* Mobilitzacions socials
+      * Valora i analitza exemples d'accions individuals i col·lectives que tenen com a objectiu instar les institucions governamentals a realitzar millores socials. 
+
+##Prerequisits
+
+* Tenir un compte de gmail o bé obrir-lo per al miniOP.
+* Tenir una webcam (una càmera de vídeo per gravar i transmetre fent servir la Web).
+* El projecte final és un treball en grup; caldrà que us coordineu. 
+ 
+
+##Dedicació horària
+
+15 hores
+
+
+##Elaborat per
+
+Abel Caldera
+
+Carme Durán
+
+Mireia Manresa
+
+Mercè Vidal
+
+
+
+
+(PAS 2)
+
+##El sistema democràtic
+
+(WEB: EN UN REQUADRE HI VA EL TEXT SEGÜENT. JA VALORAREM LA SEVA UBICACIÓ: A DALT DE TOT? A LA DRETA? A SOTA? HAURIA DE SER UN RESSALTAT DEL PAS, VA INDEPENDENT DEL CONTINGUT)
+
+>En la seva definició etimològica, la paraula *política* deriva del prefix *polis*, és a dir, conjunt de persones, poble o de societat, i el sufix *tica*, que defineixo com a norma d’actuar, és a dir, de l’ètica.
+> 
+>Fragment de Mario Pedro Seijo a “El concepto clásico de política frente a la globalización” [en línia]
+
+En aquest MiniOP et proposarem participar en una tertúlia amb altres companys per arribar a consensuar una proposta concreta per avançar en la qualitat del sistema democràtic actual.  
+
+La democràcia en què es basa el sistema organitzatiu actual és producte de l'evolució de les societats modernes cap a l'eliminació de les injustícies, de les desigualtats, dels abusos de poder i dels absolutismes. 
+
+L’avenç que suposa el sistema democràtic establert consisteix en el fet que el poder recau en la ciutadania. Tot i això, darrerament hi ha un cert disgust amb el funcionament del sistema. Estem en un moment de cruïlla en què el món es planteja si cal avançar cap a nous models democràtics.  
+
+Què ha funcionat i què no ha funcionat del sistema democràtic durant els darrers cinquanta anys? No et perdis el vídeo de l'Ivan Krastev: 
+
+(RETALLAR. FRAGMENT: DES DE L’INICI FINS AL MINUT 10’ 30”)
+
+<iframe src="http://embed.ted.com/talks/lang/es/ivan_krastev_can_democracy_exist_without_trust.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+PEU DEL VÍDEO: Ivan Krastev: "¿Puede existir la democracia sin confianza?". (Font: [TED](http://www.ted.com/talks/lang/es/ivan_krastev_can_democracy_exist_without_trust.html)
+
+Potser, com afirma Krastev en el vídeo anterior, la democràcia ha d’anar lligada a l’avenç en l’eliminació de les desigualtats socials. 
+
+Les maneres que tens com a ciutadà d'incidir en la societat en què vius són l'exercici del teu dret de vot i la participació activa en el teixit associatiu i en moviments socials dirigits a causes específiques. 
+
+F1 **Atura't i comparteix** Creus que el funcionament de la democràcia actual és prou sòlid? Busca algun indici concret que mostri que el sistema presenta escletxes que s’haurien de revisar i comparteix-lo amb els companys en el fòrum (alguna notícia, vídeo, opinió d’experts, etc.). Et pot servir per participar en el fòrum la pàgina de [Human Rights Watch](http://www.hrw.org/es), una organització internacional independent que es dedica a defensar i protegir els drets humans. En aquesta pàgina hi ha un article del 17 de maig de 2013 aplicat al nostre context que comenta l’actuació de les institucions espanyoles enfront les protestes ciutadanes contra els desnonaments. És un text que fa reflexionar sobre els límits dels drets dels ciutadans: [Judith Sunderland: “Spain’s Attacks on Fighting Back”](http://www.hrw.org/news/2013/05/17/spain-s-attacks-fighting-back). També el pots llegir en castellà: [Judith Sunderland: “Los ataques de España contra el activismo”](http://www.hrw.org/es/news/2013/05/17/los-ataques-de-espana-contra-el-activismo) 
+
+
+(PAS 3)
+
+
+
+#Els sistemes electorals#
+
+Les normes que regulen la distribució de càrrecs electes a partir de vots s'anomenen *sistemes electorals*.  Aquests sistemes són fonamentals per al desenvolupament de qualsevol procés democràtic.
+
+La reflexió i el debat sobre els sistemes i les lleis electorals se centren principalment en com traduir els vots en escons al parlament, de manera que la veu dels ciutadans hi sigui present.
+
+Els aspectes que influeixen en la definició de cada sistema són, principalment, els següents: 
+
+1. **L’equilibri entre població i territori**. Cal agrupar el territori d'alguna manera? Cada persona equival a un vot? Els vots de cada persona tenen el mateix impacte en els resultats? Decidir aquesta qüestió implica conseqüències per al sistema. 
+2. **L’equilibri entre majories i minories**. Cal intentar que totes les forces polítiques quedin representades als parlaments? Com s'assegura la governabilitat? Cal establir algun llindar a partir del qual un partit polític pot entrar en el sistema per representar els vots rebuts? Establir aquests criteris també té conseqüències rellevants per al funcionament de la democràcia parlamentària. 
+
+A partir d'aquests elements, cada país prioritza uns aspectes o uns altres i busca maneres d'ajustar el sistema adaptant-les a les seves particularitats internes. 
+
+(WEB: EN AQUEST PAS HI PODRIA ANAR ALGUNA IMATGE: D’UN ARC PARLAMENTARI ??? ALTRES IDEES?)
+
+(PAS 4) 
+
+#Sistemes electorals: població i territori#
+ 
+Creus que el nostre sistema recull els resultats electorals a partir de la correspondència 1 persona = 1 vot?  Si es fes així, hi hauria representació de totes les particularitats territorials? Cal que hi hagi aquesta representació assegurada? 
+
+Com es resol aquest dilema? Aquí tens tres exemples de zones geogràfiques diferents que han trobat maneres ben diverses d'ajustar aquesta qüestió segons les seves particularitats: 
+
+(WEB: AQUÍ HI HAURIEN D'ANAR TRES PESTANYES I CADA PESTANYA INCLOU EL TÍTOL QUE S’INDICA EN NEGRETA)
+
+
+PESTANYA 1:  **El cas francès**
+
+A França, es divideix el país en tantes circumscripcions com diputats hi ha (577) i cadascuna tria un sol escó per anar al Parlament. D’aquesta manera, l’èmfasi en les eleccions es posa en els representants més propers geogràficament del ciutadà, tot i que només se’n pot triar un. 
+
+Mira’t el mapa següent d’una zona de França, la Catalunya nord, on podràs comprovar que les circumscripcions es delimiten segons el nombre d’habitants. Fixa’t en Perpinyà (1), per exemple, que té molt poc territori perquè agrupa molta població: 
+
+[Mapa de les circumscripcions de la Catalunya Nord](http://www.elections-legislatives.fr/circonscriptions/066.asp#?aresultat) 
+
+
+PESTANYA 2: **El cas israelià**
+
+El sistema electoral israelià estableix una circumscripció única per a tot el territori. Compten tots els vots emesos sense importar la zona geogràfica d'on provenen. Israel és un dels únics països del món, juntament amb els Països Baixos i Eslovàquia, on el parlament s'escull mitjançant un únic districte electoral. Això dóna una representativitat alta, amb presència de molts partits polítics minoritaris. Es tradueix en una representació plural de la societat, però, d'altra banda, la governabilitat del poder executiu es pot veure ressentida, ja que difícilment s'aconsegueixen majories suficients per governar en solitari.
+
+En el cas d'Israel, aquesta representativitat només afecta als ciutadans israelians, que són els que tenen dret a vot. Les circumstàncies polítiques dels país són determinants. Israel, en fundar-se el 1948, va patir un seguit de guerres que la van portar a augmentar diverses vegades el seu territori. Alhora, milers de palestins quedaven dins els nous territoris israelians. La no existència de circumscripcions va permetre d'una banda no haver de definir quin territori pertanyia a Israel i quin estava ocupat militarment, i de l'altra va permetre diluir el pes electoral de la població palestina, molt concentrada al nord del país.
+
+PENDENT FUTUR: MAPA ISRAEL MÉS TERRITORIS OCUPATS
+
+
+PESTANYA 3:  **El cas català**
+
+
+Catalunya es divideix en quatre circumscripcions. A les menys poblades se’ls atorguen més diputats dels que els pertocaria, amb la premissa que totes les comarques puguin tenir representació. 
+
+GRÀFIC: MAPA DE CATALUNYA
+
+D’aquesta manera, si un partit determinat aconsegueix més vots en una circumscripció poc poblada pot ser que tingui més diputats al Parlament que un altre que tingui més vots en el total de les circumscripcions. Fixa’t en aquest exemple de les darreres eleccions del novembre de 2012: 
+
+TAULA ERC I PSC ODT
+
+
+(PAS 5)
+
+#Sistemes electorals: minories i majories#
+
+Per establir els representants que entren a formar part del Parlament, es tenen en compte dues variables: 
+
+a) Que es pugui assegurar la governabilitat a través de majories sòlides.
+
+b) Que les minories quedin representades.
+
+En funció de l’èmfasi que es posi en cadascun d’aquests punts, es configura un sistema o un altre per triar els representants segons els vots emesos. 
+
+Mira aquests tres exemples. Són casos molt diferents segons l’equilibri minories/majories: 
+
+
+(WEB: AQUÍ HI TORNARAN A ANAR PESTANYES, UNA PER A CADA CAS). 
+
+XAVI, A CADA PESTANYA HI VA TOT EL TEXT QUE ORIGINALMENT HAVÍEM POSAT A LES FITXES DE LA GRAFISTA. ARA ÉS TEXT I PER TANT HAUREM DE VEURE COM ORGANITZEM LA INFORMACIÓ, QUE ORIGINÀRIAMENT ERA EN FORMA DE FITXETA, AL WEB: NEGRETES, CURSIVES, REQUADRES, CENTRATS.... . ENS HO MIRAREM PLEGATS. 
+
+PESTANYA 1: **Sistema majoritari**
+
+Per entendre el sistema electoral majoritari resseguirem el cas francès. 
+
+**França**
+
+Informacions bàsiques: 
+
+* Està dividida en 577 circumscripcions i cada una escull un diputat.
+* S'utilitza el sistema majoritari de dues voltes: es fan eleccions i al cap de quinze dies se'n tornen a fer.
+* Primera volta: es presenten tots els candidats que opten a ser diputats i cada ciutadà en pot votar un. Si un dels candidats obté més del 50% dels vots, aquest és el que guanya. Si no, aquells que obtenen més del 12,5% dels vots passen a la segona volta.
+* Segona volta: el candidat més votat surt escollit diputat. 
+
+**Resultats de les eleccions del juny de 2012**
+
+Exemple d'una circumscripció: barris de Perpinyà i vila de Toluges (de la Catalunya Nord)
+
+*Primera volta*
+
+QUADRE GRAFISTA FRANÇA
+
+*Segona volta* 
+
+QUADRE 2 GRAFISTA FRANÇA
+
+**Característiques principals**: 
+
+* Els ciutadans voten de forma directa un candidat proper geogràficament. 
+* El diputat pot tenir més en compte els electors que el partit que representa. 
+* Deixa sense representació minories molt grans.
+
+[Font de les dades electorals](http://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__PR2012/%28path%29/PR2012//091/index.html)
+
+PESTANYA 2: **Sistema proporcional pur**
+
+Per entendre el sistema proporcional pur ens servirà el cas d’Israel: 
+
+**Israel**
+
+Informacions bàsiques
+
+* El parlament israelià, la Knesset, està compost per 120 diputats. 
+* A les eleccions al parlament, cada partit presenta una llista amb 120 candidats. 
+* A Israel no hi ha circumscripcions. Això vol dir que tots els vots compten junts. Cada ciutadà vota una llista d'un partit. 
+* Hi ha un llindar electoral del 2%. Totes les llistes que no hi arriben són descartades.
+
+**Resultats electorals del gener de 2013**
+
+QUADRE GRAFISTA ISRAEL
+
+**Característiques principals**:
+
+* Intenta recollir totes les sensibilitats i els corrents ideològics del país.
+* El govern està subjecte als interessos de minories poc representatives.
+
+[Font de les dades electorals](http://www.colpis.cat/files/noticia/1132_fichero.pdf) 
+
+PESTANYA 3: **Llei D’Hondt**
+
+La Llei D’Hondt s’explica a través del nostre sistema electoral. 
+
+**Catalunya**
+
+Informacions bàsiques: 
+
+* El territori es divideix en quatre circumscripcions.
+* Hi ha un llindar electoral del 3%. Totes les llistes que no hi arriben són descartades. 
+* Les llistes són tancades (no es trien persones, sinó una llista proposada pels partits).
+* La representació territorial no és proporcional.
+
+**Resultats electorals del novembre de 2012 a la circumscripció de Girona (17 diputats)**
+
+QUADRE GRAFISTA CATALUNYA
+
+
+**Característiques principals**: 
+
+* Garanteix unes majories sòlides i permet representació d’algunes minories.
+* Alimenta el sistema del vot útil perquè afavoreix les majories: votants de partits minoritaris poden optar per altres alternatives a causa del risc que suposa que la seva primera opció no tingui possibilitats d'entrar al Parlament. 
+
+[Font de les dades electorals](http://www.gencat.cat/governacio/resultats-parlament2012/09AU/DAU09999CM_L2.htm)
+
+WEB: FORA DE LES PESTANYES: 
+
+Aquests tres sistemes, però, presenten diferents variants segons els contextos en els quals s'apliquen. Cadascun té la seva complexitat. Cal conèixer a fons el sistema electoral propi per participar, activament i crítica, en els debats interns sobre el seu funcionament i la seva eficàcia: 
+
+En aquest vídeo hi trobaràs les característiques i les normes concretes que regeixen el sistema electoral català:
+
+(TALLAR VIDEO. Minut: 0:20-5:10)
+
+[Característiques del sistema electoral a Catalunya](http://youtu.be/ZbSs6nrbT-8)
+
+En aquesta segona part del vídeo descobriràs com funciona el model proporcional de la Llei d'Hondt, en el qual es basa el nostre sistema electoral, és a dir, el que tradueix els nostres vots en escons. 
+
+(TALLAR VIDEO. Minut: 5:14-8:30)
+
+[Com funciona la llei d'Hont](http://youtu.be/ZbSs6nrbT-8)
+
+F 2 **Atura’t i reflexiona** Tots els sistemes tenen pros i contres. Quin et sembla que recull millor el vot dels ciutadans? Per quin et decantaries? Què et semblaria un sistema mixt que proposés elegir la meitat dels diputats amb el sistema majoritari i l’altra meitat amb el proporcional o bé amb la Llei d’Hondt? Reflexiona sobre els sistemes electorals en el fòrum. 
+
+[Aquest article et pot ajudar a fonamentar els teus arguments](http://www.eldiario.es/piedrasdepapel/Elites-extractivas-sistema-electoral_6_105399464.html)
+
+
+(PAS 6)
+
+##El compromís dels ciutadans
+
+Com a ciutadans, tenim dues vies per incidir en el sistema: a través de les urnes en unes eleccions i a través d’altres formes de participació:
+
+**A través de les urnes**
+
+Votar és un dret o és una obligació democràtica? De fet, hi ha països, com Bèlgica, on votar és obligatori. No exercir aquest dret ens deixa al marge de la política i sense dret a decidir? Quina és la repercussió real de l'abstenció? Tenen el mateix valor un vot nul i un vot en blanc?
+
+* L’**abstenció** i el **vot nul** són símptomes que indiquen que el ciutadà no confia en cap opció política i també tenen implicacions en els resultats electorals: d'una banda, la baixa participació debilita la legitimitat dels nous governants i pot alimentar arguments negatius, com que la política no interessa a la ciutadania; d'una altra, pot beneficiar els partits minoritaris, ja que fa necessaris menys vots per aconseguir un escó. 
+* El **vot en blanc** és un vot vàlid, comptabilitza com un vot emès, amb valor a l'hora de determinar la barrera electoral, és a dir, el percentatge mínim de vots per poder tenir representació. Afavoreix els partits majoritaris i impedeix que partits minoritaris puguin assolir el percentatge mínim exigit. En el cas de l'Estat espanyol, el vot en blanc incrementa l'efecte del que es coneix com a bipartidisme.
+
+**Altres formes de participació** 
+
+FRANCESC TORRALBA (TALLAR VÍDEO: NECESSITEM NOMÉS DEL MINUT 1:12 A 1:48)
+[Notícia de TV3 sobre *Valors*, publicació sobre cooperació, solidaritat i els valors que guien la societat actual](http://www.tv3.cat/videos/4518357/La-revista-Valors-publicacio-sobre-cooperacio-solidaritat-i-els-valors-que-guien-la-societat)
+
+Com ens podem implicar en una societat democràtica, més enllà de la decisió que podem prendre davant d'unes eleccions? Una manera és la **participació ciutadana**, mecanismes de compromís individual previstos pel propi sistema; d’altres emergeixen de les mobilitzacions ciutadanes de base com els **moviments socials**. I tu, de quina manera t’hi impliques? 
+
+
+(PAS 7)
+
+##Participació ciutadana
+
+
+(FOTOGRAFIA PER ACOMPANYAR EL TEXT) 
+
+mo6_p7_1 imatge definitiva 
+PEU DE LA IMATGE: ILP dació en pagament 
+
+Tots tenim present aquesta imatge. La Plataforma d’Afectats per la Hipoteca (PAH) va posar en marxa una campanya per exigir al Govern espanyol l’aprovació d’una regulació d’urgència per a la dació de l’habitatge en pagament de la hipoteca. 
+
+Aquest és un clar exemple del que seria una Iniciativa Legislativa Popular (ILP), un dels possibles mecanismes de participació ciutadana previstos pel sistema democràtic. Es tracta d'un element de canvi que va més enllà de la decisió que es pot prendre en unes eleccions. Però, què són les ILP? Com funcionen? Qui les promou?
+
+La ILP és un mecanisme de democràcia participativa que permet als ciutadans fer propostes perquè es canviï alguna llei o bé perquè, almenys, els poders legislatiu o executiu la incloguin com a punt a debatre.
+
+Es poden presentar ILP tant al Congrés de Diputats com als parlaments autonòmics. En el cas del Congrés, cal recollir un mínim de 500.000 signatures de persones majors d'edat, mentre que en el cas del Parlament de Catalunya i de les Corts Valencianes és de 50.000. A les Illes Balears, el mínim són 10.000 signatures. 
+
+En el cas de la ILP de la dació en pagament, la PAH va recollir gairebé un milió i mig de signatures, quantitat molt superior al mínim establert. D'aquesta manera, la iniciativa va arribar al Congrés de Diputats i va ser admesa a tràmit. Però, què vol dir **admetre a tràmit**? Vol dir que s’ha de debatre i s’ha de votar en un procés que pot o no desembocar en llei. Dit d'una altra manera, el fet de ser debatuda no vol dir que sigui definitivament acceptada. 
+
+Quina ha estat la reposta del Congrés envers aquesta ILP? 
+
+Vídeo tv3 [Comparativa de la ILP de la dació en pagament i la proposta de llei del govern](http://www.tv3.cat/videos/4465091) 
+
+PEU DEL VÍDEO: Proposta de llei del Govern sobre la ILP. (Font: [TV3](http://www.tv3.cat/videos/4465091)
+        
+El projecte de llei no contemplava les propostes inicials, per la qual cosa la PAH va decidir retirar-la.
+
+Les ILP no acostumen a aconseguir el seu objectiu final, però sí que generen un debat públic intens. A tall d'exemple, de les 92 ILP presentades al Congrés de Diputats, només 9 van ser admeses a tràmit i només 1 es va acabar convertint en part d'una llei. 
+
+Pots veure quines ILP estan en tràmit al Parlament de Catalunya [aquí](http://www.parlament.cat/web/activitat-parlamentaria/iniciatives-legislatives/iniciativa-legislativa-popular-ilp ), i a les Corts Valencianes [aquí](http://www.cortsvalencianes.es/cs/Satellite/Layout/Page/1260974742402/Iniciativaslegispop.html?lang=ca_VA&p=1260974740182). 
+
+
+ 
+
+Aquests són exemples d'una de les vies establertes pel sistema -a banda del procés electoral- en què la participació ciutadana pot modificar o, fins i tot, promoure una nova llei. Hi ha altres procediments de participació civil i política, com el *referèndum revocatori*, el qual permet cessar un càrrec electe abans de finalitzar el període pel qual fou escollit, o els *pressupostos participatius*, mecanisme que permet als ciutadans influir o decidir directament sobre els pressupostos públics. 
+
+ 
+ (PAS 8)
+
+##Els moviments socials
+
+La percepció ciutadana d’una manca de representació democràtica de les institucions ha fet emergir al llarg de la història altres mesures de pressió que no segueixen les vies establertes per les institucions.
+
+Observa quin moment històric s’amaga darrere de cadascuna d’aquestes imatges:
+
+(9 DIAPOSITIVES FORMAT CARRUSSEL. EN EL PEU DE TOTES LES IMATGES HI HA D’HAVER L’ENLLAÇ A LA FONT)
+ 
+(1A FOTOGRAFIA, TÍTOL I PEU DE FOTO)
+
+ 	mo6_p8_1 imatge definitiva. 
+PEU DE LA IMATGE: Rosa Parks
+
+
+**Un gest de rebel·lia individual**
+
+El 1955, Rosa Parks va desobeir la norma que obligava els negres a cedir el seient als blancs i la van empresonar. Aquesta acció va ser el detonant d’un boicot al transport públic i d’una sentència del Tribunal Suprem de Washington, que va declarar anticonstitucional la discriminació racial en el transport urbà. 
+
+(2A FOTOGRAFIA, TÍTOL I PEU DE FOTO)
+
+mo6_p8_2 imatge definitiva. 
+PEU DE LA IMATGE: Martin Luther King
+
+
+**“I have a dream”:  una marxa multitudinària**
+
+El discurs de Martin Luther King (1963) va ser el punt culminant de la marxa sobre Washington que va aglutinar més de 200.000 manifestants en defensa dels drets civils i de la igualtat racial. S'ha convertit en un símbol universal de la lluita pacífica dels oprimits contra els opressors i de la força dels ciutadans per aconseguir canvis.
+
+(3A FOTOGRAFIA, TÍTOL I PEU DE FOTO)
+
+mo6_p8_3 imatge mostra. 
+PEU DE LA IMATGE: Vaga de La Canadenca
+
+**Vaga de La Canadenca: la lluita obrera** 
+
+El que va començar el 1919 com una petita vaga a la fàbrica de La Canadenca, que donava electricitat a tot Barcelona, va acabar amb una vaga general que va durar 44 dies a tot Catalunya, i que va aconseguir l'establiment de la jornada laboral de 8 hores per a tots els oficis. S'havien establert unes noves pautes per a la lluita obrera.
+
+(4A POSSIBLE FOTOGRAFIA, TÍTOL I PEU DE FOTO)
+
+mo6_p8_4 imatge mostra. 
+PEU DE LA IMATGE: Moviment d’Objecció de Consciència
+
+
+**Moviment d’Objecció de Consciència**
+
+Els 40.000 insubmisos existents a l'Estat espanyol -persones que, tot i el perill de ser empresonades, es negaven a fer el servei militar o la prestació social substitutòria- i el suport social que van aconseguir van forçar el Govern a eliminar definitivament el servei militar obligatori el 2001. 
+
+
+(5A FOTOGRAFIA, TÍTOL I PEU DE FOTO)
+mo6_p8_5 imatge definitiva. 
+PEU DE LA IMATGE: Revoltes àrabs
+
+**Les revoltes àrabs: aixecaments multitudinaris**
+
+Les protestes multitudinàries de ciutadans d’alguns països àrabs iniciades a finals del 2010 van suposar aixecaments sense precedents, que van aconseguir derrocar els governs de Tunísia, Egipte i Líbia, i que es van estendre a altres països de la zona. Internet va tenir-hi un paper clau per a la comunicació directa entre la ciutadania. 
+
+
+(6A FOTOGRAFIA, TÍTOL I PEU DE FOTO)
+
+mo6_p8_6 imatge definitiva
+PEU DE LA IMATGE: Moviment 15-M
+
+**Moviment dels Indignats o del 15-M: ocupació d’espais públics**
+
+El 15 de maig de 2011 es van iniciar protestes pacífiques a tot l’Estat, amb acampades a places i parcs de nombroses ciutats, per tal de denunciar abusos de la classe política i financera i reivindicar una democràcia més participativa. El moviment, de caràcter apartidista, suposa un model de participació de base que recull la veu ciutadana.  
+
+
+ 
+(7A FOTOGRAFIA, TÍTOL I PEU DE FOTO)
+
+mo6_p8_7 imatge definitiva, [enllaç](http://www.flickr.com/photos/assemblea/7455493078/)
+
+PEU DE LA IMATGE: Acte de constitució de l'Assemblea Nacional Catalana
+
+
+**Les plataformes ciutadanes: l’Assemblea Nacional Catalana**
+
+L'Assemblea Nacional Catalana (ANC) és un exemple recent de l’agrupament de diversos moviments populars en una plataforma unitària de lluita en favor d’una causa. És especialment significativa per haver aconseguit mobilitzar un milió i mig de ciutadans l’11 de setembre de 2012 amb el lema “Catalunya, nou estat d’Europa”. 
+
+
+IMATGE MO6_P8_8 GUARDADA A LA CARPETA IMG
+
+PEU DE LA IMATGE: Marea groga. Font: ([Izinu](http://www.flickr.com/photos/izinu2/7397315148/) 
+
+
+**La marea groga, un moviment de pressió social**
+
+El descontentament per la situació de l'escola pública a Catalunya, simbolitzat pel color groc de samarretes i pancartes i pel lema "SOS Educació", ha unit estudiants, famílies i docents de tots els nivells educatius en nombrosos actes reivindicatius en contra de les retallades i en defensa d'una educació pública de qualitat.
+
+(9A FOTOGRAFIA, TÍTOL I PEU DE FOTO)
+
+mo6_p8_9 imatge definitiva. 
+PEU DE LA IMATGE: Escraches
+
+**Els *escraches*, una acció directa**
+
+Reben el nom de les concentracions pacífiques que grups d’activistes van fer davant del domicili de genocides de la dictadura argentina com a manera de denunciar-ne la impunitat. És una acció utilitzada actualment com a mesura de pressió davant el domicili dels diputats que no donen suport a la ILP sobre la dació en pagament de la hipoteca.
+
+
+Què creus que tenen en comú? 
+
+Els moviments socials sovint contraposen la legalitat a la justícia. Desobeeixen les lleis perquè les consideren injustes, i la seva acció intenta representar un comportament just. De fet, l'èxit o el fracàs d'un moviment social sovint està lligat a com de justa és percebuda la seva acció desobedient per part de la ciutadania.
+
+Busquen incidir en la societat a través d’estructures més horitzonals, menys jeràrquiques, sobre la base d’una persona una opinió. Es creen xarxes de treball en grup i no solen tenir estructures estables. Poden deixar d’existir quan el motiu social que els ha promogut desapareix. Actualment, aquests moviments socials estan tornant a emergir amb força. 
+
+Creus que són útils per produir canvis en els sistema? Mira't aquests vídeos que mostren resultats diferents:
+
+(00:00 - fins al 2:54)
+[El cas d'Islàndia] http://www.youtube.com/watch?v=GzBBAFrchSo
+
+PEU DEL VÍDEO: Fragment de “Bancos, del crédito al descrédito”: el cas d’Islàndia. (Font:[*Salvados*, LaSexta.](http://www.lasexta.com/videos/salvados/2012-mayo-7-2012050700017.html) 
+
+
+
+[10 anys del No a la guerra]
+http://www.324.cat/video/4469192/10-anys-del-No-a-la-guerra
+
+ PEU DEL VÍDEO:  “10 anys del No a la guerra”. (Font:[TV3](http://www.324.cat/video/4469192/10-anys-del-No-a-la-guerra)
+        
+ 
+
+F3 **Atura’t i comparteix** Se t’acudeixen fites que s’hagin aconseguit a través dels moviments socials i de la pressió ciutadana? Busca notícies històriques o actuals i comparteix-les al fòrum. [Per exemple, el dret a vot de les dones](http://www20.gencat.cat/portal/site/icdones/menuitem.4b491b5fa301c8a439a72641b0c0e1a0/?vgnextoid=43bf770fb6f5f110VgnVCM1000008d0c1e0aRCRD&vgnextchannel=43bf770fb6f5f110VgnVCM1000008d0c1e0aRCRD&vgnextfmt=default). 
+ 
+
+(PAS 9)
+
+##Repensar la política
+
+Malgrat les seves limitacions, cal preservar el sistema democràtic establert? Mira’t aquest vídeo: 
+(TALLAR-LO: DEL MINUT 6’ AL 10’)
+
+<iframe src="http://embed.ted.com/talks/lang/es/rory_stewart_how_to_rebuild_democracy.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+PEU DEL VÍDEO: “Per què la democràcia importa”. (Font:[TED](http://www.ted.com/talks/rory_stewart_how_to_rebuild_democracy.html)
+
+El sistema que tenim és prou sòlid per mantenir-lo i suposa una bona base que recull la participació del ciutadà d’una manera notable. Ara bé, cal afinar el sistema democràtic? Un cop un partit guanya les eleccions, ja no cal preocupar-nos per res més? L’experiència mostra que cal un major control de les actuacions parlamentàries, així com del compliment dels programes electorals en relació a les decisions reals un cop s’accedeix al poder. Cal *controlar* els polítics i millorar la transparència de les seves accions? 
+
+Alguns països han assajat maneres d’implicar més el ciutadà en les decisions a prendre. Un exemple proper és el cas de Suïssa, on els càrrecs públics tenen molt clar que la seva tasca consisteix a fer un servei a la ciutadania i no pas a gaudir d'un poder il·limitat. En aquest país, per exemple, han establert la convocatòria de referèndums vinculants per col·laborar amb la tasca parlamentària. 
+
+Mira-t’ho en aquest vídeo, on una persona que es dedica a la política a Suïssa ho explica: 
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Q_MfqCU4JuY" frameborder="0" allowfullscreen></iframe>
+
+PEU DEL VÍDEO:  Fragment de “Ciudadano clínex”, del programa *Salvados*. (Font:[La Sexta]( http://www.lasexta.com/videos/salvados/2012-septiembre-17-2012091700018.html)
+
+
+Si es debat sobre l’eixamplament de la democràcia és perquè hi ha un cert descontentament amb el funcionament dels governs, però també amb la poca implicació que el sistema demana als ciutadans. És evident que l’organització del sistema és prou bona com a base perquè cal tenir establerta una manera de governar i de tirar endavant el dia a dia. Ara bé, els ciutadans hem delegat massa en els polítics?
+
+
+
+(PAS 10)
+
+##Projecte
+
+Et proposem que facis un debat amb altres companys sobre el sistema democràtic a partir d'aquesta qüestió:
+
+Com podem millorar la nostra democràcia? (TÍTOL EN VERMELL I EN UN REQUADRE COM EL DEL PROJECTE D'ECONOMIA)
+
+Estructura del debat:
+
+* Durada: 10 minuts en total, com a màxim.
+* Ronda d'intervencions individuals en les quals els components del debat (grup de 3) es presenten i donen la seva opinió sobre un aspecte concret del sistema que caldria millorar. Cada intervenció ha de tenir un màxim de 2 minuts.
+* Ronda d'intervencions per comentar i discutir les propostes i arribar a un consens.
+
+
+Per preparar el debat, has de seguir aquests passos:
+
+
+1. Escolta aquest programa dels Matins de Catalunya ràdio en el qual experts nacionals debaten sobre possibles alternatives per millorar la transparència política i el sistema democràtic. Et pot servir tant per ajudar a fonamentar les teves pròpies opinions (pots aprofundir en alguna de les idees que hi apareixen), com per agafar models de com ha de ser una tertúlia formal (torns d'intervenció, registre formal, etc.).[Democràcia participativa.(Font: El Matí de Catalunya Ràdio, 20/02/2013)](http://www.catradio.cat/audio/705985/Democracia-participativa)  
+
+Aquí pots veure un altre exemple de debat sobre la situació actual i les possibilitats de millorar el funcionament democràtic en el nostre context: 
+
+http://www.lasexta.com/videos/salvados/2013-junio-2-2013053100023.html
+
+PEU DEL VÍDEO: Programa “Último salvados”, del programa *Salvados*. (Font:[La Sexta]( http://www.lasexta.com/videos/salvados/2013-junio-2-2013053100023.html)
+
+2. Prepara un esborrany de la intervenció individual que et serveixi com a esquema del que vols dir. L'estructura de cada intervenció ha de tenir dues parts: 
+  * Selecciona algun aspecte de la democràcia que creus que no funciona i justifica-ho.
+  * Fes una proposta concreta per millorar-lo.
+3. Prepara la intervenció grupal. El debat, el fareu via Internet i el gravareu. Per fer-ho, heu de seguir aquests passos:
+  * Afegeix-te a un grup al fil de fòrum “Grups projecte” (grups de 3).
+  * Prepareu el debat abans de gravar-lo (us podeu comunicar via facebook, mail, xarxes, campus, etc. per explicar-vos prèviament les propostes). 
+  * Decidiu un dia i una hora que a tothom li vagi bé per gravar la tertúlia.
+  * Necessitareu un ordinador amb càmera web, connexió a Internet i tenir un compte obert a Gmail.  
+  * Un dels integrants haurà d'obrir un hangout des del Gmail per convidar-hi els altres dos.
+  * Per obrir un hangout i per enregistrar la tertúlia, podeu fer servir aquest tutorial: [Cómo crear, organizar y participar de un hangout](http://wwwhatsnew.com/2013/05/15/organizar-participar-de-un-hangout-paso-a-paso/)
+  * Practiqueu tantes vegades com sigui necessari abans de donar-lo per bo. Podeu gravar tants vídeos com vulgueu i esborrar del Youtube els que no serveixin.
+  * No us oblideu de dir el vostre nom i cognom quan inicieu el debat.  
+
+En cas que no trobis companys per fer el debat, pots fer-lo amb persones que no estiguin vinculades a l'IOC (familiars, amics, etc.) o bé, com a últim recurs, pots fer una reflexió personal sobre el tema. En tots dos casos, has d'enviar la URL del lloc on hagis penjat el vídeo ([Youtube](http://www.youtube.com/) o [Vimeo](https://vimeo.com/)).  
+
+F4 **Atura't i comparteix**
+
+Comparteix la URL del vídeo del teu grup en el fòrum “Projecte” (només cal que el comparteixi un dels integrants) i, si vols, comenta el d'algun company (aquí sí que podeu participar-hi tots). 
+
+FG **Aprèn en col·laboració**
+Recorda que pots utilitzar el fil general del fòrum *Aprèn en col·laboració* per consultar o plantejar aspectes generals del miniOP. Es tracta que entre tots us en sortiu. 
+
